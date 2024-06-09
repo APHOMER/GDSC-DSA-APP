@@ -1,0 +1,42 @@
+module.exports = {
+  members: {
+    SET_1: [ 
+      "Basit",
+      "Shade",
+      "Paul Dumebi",
+      "Sunkanmi",
+      "Ifihan",
+      "Ovbioba",
+      "Quyum",
+      "Chidera",
+      "Favour",
+      "Yin",
+      "Tony",
+      "Uchechukwu",
+      "iMyke",
+      "CK",
+      "Wary",
+      "Aphomer"
+    ],
+    SET_2: [
+      "BlackDev",
+      "Bosun",
+      "Jimoh",
+      "Tife",
+      "Bashorun",
+      "Oluwatosin",
+      "Bosipo",
+      "John Igwe",
+      "Dotun",
+      "Bolaji",
+      "Sarima",
+      "Olamilekan",
+      "Gbenga",
+      "Ayomipo",
+      "Temiloluwa",
+      "Empty"
+    ],
+  },
+  REFERENCE_DATE_STRING: "January, 2023",
+  SEED: "oqiefi1293919qnwkasdasd0s",
+};
