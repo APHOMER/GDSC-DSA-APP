@@ -37,6 +37,7 @@ module.exports = {
       "Empty"
     ],
   },
-  REFERENCE_DATE_STRING: "January, 2023",
+  // REFERENCE_DATE_STRING: "January, 2023",
+  REFERENCE_DATE_STRING: "July, 2024",
   SEED: "oqiefi1293919qnwkasdasd0s",
 };
