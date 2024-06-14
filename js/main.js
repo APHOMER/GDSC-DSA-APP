@@ -18,6 +18,7 @@ function weeksSince(dateString) {
   return result;
 }
 
+
 function getRoundNumber() {
   return (
     (weeksSince(REFERENCE_DATE_STRING) + 1) % (members.SET_1.length * 2 - 1)
